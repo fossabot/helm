@@ -3,6 +3,7 @@
 [![CircleCI](https://circleci.com/gh/helm/helm.svg?style=shield)](https://circleci.com/gh/helm/helm)
 [![Go Report Card](https://goreportcard.com/badge/github.com/helm/helm)](https://goreportcard.com/report/github.com/helm/helm)
 [![GoDoc](https://godoc.org/k8s.io/helm?status.svg)](https://godoc.org/k8s.io/helm)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmattfarina%2Fhelm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmattfarina%2Fhelm?ref=badge_shield)
 
 Helm is a tool for managing Kubernetes charts. Charts are packages of
 pre-configured Kubernetes resources.
@@ -76,3 +77,7 @@ You can reach the Helm community and developers via the following channels:
 ### Code of conduct
 
 Participation in the Helm community is governed by the [Code of Conduct](code-of-conduct.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmattfarina%2Fhelm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmattfarina%2Fhelm?ref=badge_large)
